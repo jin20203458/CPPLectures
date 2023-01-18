@@ -29,7 +29,9 @@
 - 프랜즈 클래스 (내용: )
 
 ===================
+
 객체 활용 
+
 ===================
 
 - 객체 동적 할당(내용: 객제 포인터..)
@@ -72,27 +74,27 @@
 ## STL
 - STL 특징
 - 컨테이너
-  > 컨테이너 개념
-  > array
-  > vector
-  > list
-  > map
-  > ..
+  * 컨테이너 개념
+  * array
+  * vector
+  * list
+  * map
+  * ..
 - 반복자
-  > 반복자 개념
-  > array
-  > vector
-  > list
-  > map
-  > ..
+  * 컨테이너 개념
+  * array
+  * vector
+  * list
+  * map
+  * ..
 - 알고리즘
-  > 알고리즘 개념
-  > array
-  > vector
-  > list
-  > map
-  > ..
-
+  * 컨테이너 개념
+  * array
+  * vector
+  * list
+  * map
+  * ..
+  
 ## 데이터 입출력
 - 스트림
 - 입력 스트림
