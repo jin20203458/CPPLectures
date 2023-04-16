@@ -60,14 +60,14 @@ for(range-declaration : expression) {
 1) 범위 기반 ```for``` 문 사용 예
 
 ```c++
-for(auto data : {1, 2, 3} {
+for(auto data : {1, 2, 3}) {
    cout <<  2 * data << endl;
 }
 ```
 
 ```c++
-auto v = { 6, 7, 8}
-for(auto data : {v} {
+auto v = { 6, 7, 8};
+for(auto data : v ){
    cout <<  data << endl;
 }
 ```
